@@ -1,0 +1,10 @@
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\RabbitMQReadMessage.exe.config
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\obj\Debug\RabbitMQReadMessage.csprojResolveAssemblyReference.cache
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\RabbitMQReadMessage.exe
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\RabbitMQReadMessage.pdb
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\RabbitMQ.Client.dll
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\bin\Debug\RabbitMQ.Client.xml
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\obj\Debug\RabbitMQReadMessage.exe
+C:\Users\zukisa\Documents\Projects\Wonga\RabbitMQReadMessage\RabbitMQReadMessage\obj\Debug\RabbitMQReadMessage.pdb
